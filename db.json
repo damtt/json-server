@@ -1,0 +1,187 @@
+{
+  "todos": [],
+  "register": [
+    {
+      "username": "admin123",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "useranswer": [
+
+  ],
+  "data": [
+    {
+      "name": "bai kiem tra so 1",
+      "descriptions": "hoan thanh trong 1 phut ",
+      "time": "1",
+      "questions": [
+        {
+          "idQuestion": 1,
+          "name": "5+5 =",
+          "answers": [
+            {
+              "id": 0,
+              "value": "5",
+              "is_correct": false
+            },
+            {
+              "id": 1,
+              "value": "10",
+              "is_correct": true
+            },
+            {
+              "id": 2,
+              "value": "15",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "20",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "idQuestion": 2,
+          "name": "1+1 =",
+          "answers": [
+            {
+              "id": 0,
+              "value": "1",
+              "is_correct": false
+            },
+            {
+              "id": 1,
+              "value": "2",
+              "is_correct": true
+            },
+            {
+              "id": 2,
+              "value": "3",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "4",
+              "is_correct": false
+            }
+          ]
+        }
+      ],
+      "id": 83
+    },
+    {
+      "name": "bai kiem tra so 2",
+      "descriptions": "hoan thanh trong 1phut",
+      "time": "1",
+      "questions": [
+        {
+          "idQuestion": 1,
+          "name": "12+12 =",
+          "answers": [
+            {
+              "id": 1,
+              "value": "22",
+              "is_correct": false
+            },
+            {
+              "id": 2,
+              "value": "23",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "24",
+              "is_correct": true
+            },
+            {
+              "id": 4,
+              "value": "25",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "idQuestion": 2,
+          "name": "4+4 = ",
+          "answers": [
+            {
+              "id": 1,
+              "value": "2",
+              "is_correct": false
+            },
+            {
+              "id": 2,
+              "value": "4",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "6",
+              "is_correct": false
+            },
+            {
+              "id": 4,
+              "value": "8",
+              "is_correct": true
+            }
+          ]
+        },
+        {
+          "idQuestion": 3,
+          "name": "5+5 =",
+          "answers": [
+            {
+              "id": 1,
+              "value": "10",
+              "is_correct": true
+            },
+            {
+              "id": 2,
+              "value": "20",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "30",
+              "is_correct": false
+            },
+            {
+              "id": 4,
+              "value": "40",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "idQuestion": 4,
+          "name": "13+13=",
+          "answers": [
+            {
+              "id": 1,
+              "value": "23",
+              "is_correct": false
+            },
+            {
+              "id": 2,
+              "value": "24",
+              "is_correct": false
+            },
+            {
+              "id": 3,
+              "value": "25",
+              "is_correct": false
+            },
+            {
+              "id": 4,
+              "value": "26",
+              "is_correct": true
+            }
+          ]
+        }
+      ],
+      "id": 84
+    }
+  ]
+}
